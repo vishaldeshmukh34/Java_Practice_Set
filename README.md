@@ -1,61 +1,33 @@
-📂 Program List
+JavaCodeSolve
 
-HelloWorld.java
+Welcome to JavaCodeSolve 👋
 
-Variables.java
+This repository is a collection of solved Java programs.
+It is designed for students, beginners, and anyone who wants to learn Java programming in a simple way.
 
-SimpleCalculator.java
+Instead of long theory, this repo focuses on practical coding examples.
+Each file (.java) is an individual program that explains a concept like variables, conditions, loops, arrays, functions, or OOP.
 
-DayOfWeek.java
+🔹 Why this repository?
 
-TrafficSignal.java
+✅ To make Java learning easy with simple solved programs
 
-IfElseExample.java
+✅ To cover basic to advanced concepts step by step
 
-GradeSystem.java
+✅ To serve as a reference library for coding practice
 
-LargestNumber.java
+✅ To help beginners practice daily coding
+📂 What’s inside?
 
-SumOfNumbers.java
+Basic Programs → HelloWorld, Variables, Calculator, DayOfWeek
 
-Factorial.java
+Conditions & Loops → If-Else, Switch-Case, Loops, Factorial
 
-TableOfNumber.java
+Arrays & Functions → Array operations, Functions, Recursion
 
-PatternStars.java
+OOP Concepts → Class, Object, Inheritance, Polymorphism, Encapsulation
 
-ArrayInput.java
+Advanced Basics → Abstract Class, Interface, Exception Handling, File Handling
+🎯 Goal
 
-ArraySum.java
-
-ArraySearch.java
-
-FunctionExample.java
-
-FunctionWithReturn.java
-
-FunctionOverloading.java
-
-CalculatorFunction.java
-
-RecursionFactorial.java
-
-ClassObject.java
-
-ConstructorExample.java
-
-InheritanceExample.java
-
-MethodOverriding.java
-
-Polymorphism.java
-
-Encapsulation.java
-
-AbstractClass.java
-
-InterfaceExample.java
-
-ExceptionHandling.java
-
-FileHandling.java
+The goal of this project is to practice Java daily and create a simple, understandable, and reusable collection of solved codes that anyone can use for learning.
