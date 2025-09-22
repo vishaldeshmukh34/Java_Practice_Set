@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Oddnumber",
+            "request": "launch",
+            "mainClass": "Oddnumber",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "DivisibleBy3",
+            "request": "launch",
+            "mainClass": "DivisibleBy3",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "SumNumbers",
+            "request": "launch",
+            "mainClass": "SumNumbers",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "OddNumbers",
+            "request": "launch",
+            "mainClass": "OddNumbers",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumbers",
+            "request": "launch",
+            "mainClass": "EvenNumbers",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Day1_DayOfWeek",
+            "request": "launch",
+            "mainClass": "Day1_DayOfWeek",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day2_Calculator",
+            "request": "launch",
+            "mainClass": "Day2_Calculator",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day3_vowel",
+            "request": "launch",
+            "mainClass": "Day3_vowel",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day4_MonthName",
+            "request": "launch",
+            "mainClass": "Day4_MonthName",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day5_GradeSystem",
+            "request": "launch",
+            "mainClass": "Day5_GradeSystem",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day6_TrafficLight",
+            "request": "launch",
+            "mainClass": "Day6_TrafficLight",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day7_SeasonFinder",
+            "request": "launch",
+            "mainClass": "Day7_SeasonFinder",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day8_NumberToWord",
+            "request": "launch",
+            "mainClass": "Day8_NumberToWord",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Day9_MenuDrivenArea",
+            "request": "launch",
+            "mainClass": "Day9_MenuDrivenArea",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "program1_",
+            "request": "launch",
+            "mainClass": "MyJavaProgram.program1_",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "program2_",
+            "request": "launch",
+            "mainClass": "MyJavaProgram.program2_",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "program3_",
+            "request": "launch",
+            "mainClass": "MyJavaProgram.program3_",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "program4_",
+            "request": "launch",
+            "mainClass": "MyJavaProgram.program4_",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "PrintNumbers",
+            "request": "launch",
+            "mainClass": "PrintNumbers",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumbers",
+            "request": "launch",
+            "mainClass": "ReverseNumbers",
+            "projectName": "java code slove_4c2a8052"
+        }
+    ]
+}
