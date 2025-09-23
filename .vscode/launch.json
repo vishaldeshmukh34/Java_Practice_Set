@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DivisibleBy7",
+            "request": "launch",
+            "mainClass": "DivisibleBy7",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "SumEven",
+            "request": "launch",
+            "mainClass": "SumEven",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "FizzBuzz",
             "request": "launch",
             "mainClass": "FizzBuzz",
