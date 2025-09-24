@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiplicationTable_3",
+            "request": "launch",
+            "mainClass": "MultiplicationTable_3",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "PrintNumbers_2",
+            "request": "launch",
+            "mainClass": "PrintNumbers_2",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd_1",
+            "request": "launch",
+            "mainClass": "EvenOdd_1",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "SquareCheck",
             "request": "launch",
             "mainClass": "SquareCheck",
