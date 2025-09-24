@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SquareCheck",
+            "request": "launch",
+            "mainClass": "SquareCheck",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "DivisibleBy7",
             "request": "launch",
             "mainClass": "DivisibleBy7",
