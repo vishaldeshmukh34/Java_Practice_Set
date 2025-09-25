@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumCount1",
+            "request": "launch",
+            "mainClass": "SumCount1",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumbers_13",
+            "request": "launch",
+            "mainClass": "SumOfNumbers_13",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "MultiplicationTable_3",
             "request": "launch",
             "mainClass": "MultiplicationTable_3",
