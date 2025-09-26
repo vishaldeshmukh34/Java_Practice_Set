@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TableCalculator",
+            "request": "launch",
+            "mainClass": "TableCalculator",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits_12",
+            "request": "launch",
+            "mainClass": "CountDigits_12",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "SumCount1",
             "request": "launch",
             "mainClass": "SumCount1",
