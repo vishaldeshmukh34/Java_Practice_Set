@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultipicationTable",
+            "request": "launch",
+            "mainClass": "MultipicationTable",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "MyJavaProgram.Main",
