@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Program5_Boolean",
+            "request": "launch",
+            "mainClass": "Method.Program5_Boolean",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Program6_BooleanAndOperation",
+            "request": "launch",
+            "mainClass": "Method.Program6_BooleanAndOperation",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Program4_ReverseNumber",
+            "request": "launch",
+            "mainClass": "Method.Program4_ReverseNumber",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Program3_Factorial",
+            "request": "launch",
+            "mainClass": "Method.Program3_Factorial",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Program2_Calculator",
+            "request": "launch",
+            "mainClass": "Method.Program2_Calculator",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Program1_PrintHi",
+            "request": "launch",
+            "mainClass": "Method.Program1_PrintHi",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "MultipicationTable",
             "request": "launch",
             "mainClass": "MultipicationTable",
