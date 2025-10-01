@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "main_19_pro",
             "request": "launch",
             "mainClass": "Method.main_19_pro",
