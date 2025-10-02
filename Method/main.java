@@ -401,6 +401,27 @@ class Main {
         for (int n : arr) sum += n;
         System.out.println("Sum of array elements: " + sum);
     }
+  
+    // Q 41] . We are having a party with amounts of tea and candy. Print the int outcome of the party encoded as 0=bad, 1=good, or 2=great. A party is good (1) if both tea and candy are at least 5. However, if either tea or candy is at least double the amount of the other one, the party is great (2). However, in all cases, if either tea or candy is less than 5, the party is always bad (0).
+    
+      public void q41(int tea , int candy)
+    {
+        
+        if(tea < 5 || candy < 5)
+        {
+            System.out.println("Bad");
+        }
+        else if(tea >= 2*candy || candy >= 2*tea)
+        {
+            System.out.println("great");
+        }
+        else
+        {
+            System.out.println("good");
+        }
+        
+       
+    }
 
     // main method to call above programs
     public static void main(String[] args) {
@@ -449,5 +470,6 @@ class Main {
         obj.q38_Largest(new int[]{3, 5, 9, 1, 7});
         obj.q39_Smallest(new int[]{3, 5, 9, 1, 7});
         obj.q40_SumArray(new int[]{3, 5, 9, 1, 7});
+        obj.q41(23, 4);
     }
 }
