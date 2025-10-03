@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoDigitCheck",
+            "request": "launch",
+            "mainClass": "Method.MethodReturnPrograms.TwoDigitCheck",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfFive",
+            "request": "launch",
+            "mainClass": "Method.MethodReturnPrograms.AverageOfFive",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "AsciiValue",
+            "request": "launch",
+            "mainClass": "Method.MethodReturnPrograms.AsciiValue",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "program5_",
             "request": "launch",
             "mainClass": "MyJavaProgram.program5_",

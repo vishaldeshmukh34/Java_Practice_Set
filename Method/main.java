@@ -422,6 +422,28 @@ class Main {
         
        
     }
+   //   Q 42 ] A. Given a day of the week encoded as 0=Sun, 1=Mon, 2=Tue, ...6=Sat, and a boolean indicating if we are on vacation, print a string of the form "7:00" indicating when the alarm clock should ring. Weekdays, the alarm should be "7:00" and on the weekend it should be "10:00". Unless we are on vacation -- then on weekdays it should be "10:00" and weekends it should be "off".
+
+
+    public void q42(boolean vacation, int day) {
+        if (!vacation) {
+            if (day >= 1 && day <= 5) {
+                System.out.println("7:00");
+            } else if (day == 0 || day == 6) {
+                System.out.println("10:00");
+            } else {
+                System.out.println("Please Enter The Correct Day Number");
+            }
+        } else {
+            if (day >= 1 && day <= 5) {
+                System.out.println("10:00");
+            } else if (day == 0 || day == 6) {
+                System.out.println("off");
+            } else {
+                System.out.println("Please Enter The Correct Day Number");
+            }
+        }
+    }
 
     // main method to call above programs
     public static void main(String[] args) {
@@ -471,5 +493,6 @@ class Main {
         obj.q39_Smallest(new int[]{3, 5, 9, 1, 7});
         obj.q40_SumArray(new int[]{3, 5, 9, 1, 7});
         obj.q41(23, 4);
+        obj.q42(true, 5);
     }
 }
