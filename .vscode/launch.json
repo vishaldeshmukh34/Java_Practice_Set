@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q3_FriendWithMethod",
+            "request": "launch",
+            "mainClass": "Q3_FriendWithMethod",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "Q2_TwoFriends",
+            "request": "launch",
+            "mainClass": "Q2_TwoFriends",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "StudentName",
             "request": "launch",
             "mainClass": "StudentName",
