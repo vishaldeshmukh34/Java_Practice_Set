@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "FlagExample",
+            "request": "launch",
+            "mainClass": "FlagExample",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "EmployeeInfo",
             "request": "launch",
             "mainClass": "EmployeeInfo",
