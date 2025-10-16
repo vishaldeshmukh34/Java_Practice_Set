@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "namepeint",
+            "request": "launch",
+            "mainClass": "namepeint",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "AveregFind",
+            "request": "launch",
+            "mainClass": "AveregFind",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "StudentInfo",
+            "request": "launch",
+            "mainClass": "StudentInfo",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "PrintTabe",
+            "request": "launch",
+            "mainClass": "PrintTabe",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
+            "name": "AreaOFcalulate",
+            "request": "launch",
+            "mainClass": "AreaOFcalulate",
+            "projectName": "java code slove_4c2a8052"
+        },
+        {
+            "type": "java",
             "name": "Circle",
             "request": "launch",
             "mainClass": "Circle",
