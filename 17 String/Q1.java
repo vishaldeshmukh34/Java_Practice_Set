@@ -1,13 +1,11 @@
 public class Q1 {
-    
-    //Strintwith / Endwith 
-
     public static void main(String[] args) {
         String name = "vishal";
 
-        System.out.println(name.indexOf("v"));
-        System.out.println(name.lastIndexOf("s"));
-        
-    }
+        // indexOf() gives first position of a character
+        System.out.println("This index number of 'v' :- " + name.indexOf('v'));
 
+        // lastIndexOf() gives last position of a character
+        System.out.println("This index number of 's' :- " + name.lastIndexOf('s'));
+    }
 }
