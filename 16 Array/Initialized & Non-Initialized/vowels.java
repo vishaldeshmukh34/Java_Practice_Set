@@ -1,5 +1,5 @@
 //1. WAP to print array of vowels in reverse order.
-public class Main1 {
+public class vowels {
     
     public static void main(String[] args) {
         
@@ -18,5 +18,3 @@ public class Main1 {
 
 
 
-
-// 5. WAP to accept 10 numbers from user and add all odd numbers.

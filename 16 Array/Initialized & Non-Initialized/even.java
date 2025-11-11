@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main4 {
+public class even {
    // 4. WAP to accept 10 numbers from user and count even numbers.
 
  

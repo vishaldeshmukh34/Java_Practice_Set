@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main2 {
+public class print {
     // 1. WAP to accept 10 numbers from user and print them.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
